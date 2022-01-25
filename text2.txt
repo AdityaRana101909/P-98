@@ -1,0 +1,3 @@
+Hi
+this is the third document
+this is made for testing a function
